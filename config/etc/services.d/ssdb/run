@@ -1,0 +1,3 @@
+#!/bin/sh
+
+/usr/local/ssdb/ssdb-server /etc/sysconfig/ssdb.conf
